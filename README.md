@@ -1,3 +1,5 @@
 # ExpensivePattern-Smart-Contract-
-Smart Contract with op code is 16603.
-Smart Contract Gas Cost Operation (SSTORE, SLOAD, BALANCE) graph presented. 
+Smart Contract Gas Cost Operation (SSTORE, SLOAD, BALANCE) analysis graph presented. 
+Average SSTORE/SLOAD/BALANCE Operation called per day.
+Total SSTORE/SLOAD/BALANCE Operation called per day.
+Percentage SSTORE/SLOAD/BALANCE Operation called per day. 
